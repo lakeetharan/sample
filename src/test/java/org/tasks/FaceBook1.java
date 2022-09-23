@@ -67,7 +67,7 @@ public class FaceBook1 {
 			
 			WebElement element3 = driver.findElement(By.xpath("//button[text()='Log in']"));
 			element3.click();
-			
+			 System.out.println("like");
 		}
 		
 		
